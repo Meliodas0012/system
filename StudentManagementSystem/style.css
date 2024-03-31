@@ -1,0 +1,199 @@
+body {
+    background-color: rgb(223, 223, 223);
+}
+.paper-container1 {
+    position: absolute;
+    background-color: #f9f9f9;
+    margin-left: 15%;
+    margin-top: 40px;
+    padding-top: 30px;
+    width: 70%;
+    padding-bottom: 200px;
+    height: 130%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+.paper-container2 {
+    position: absolute;
+    background-color: #f9f9f9;
+    margin-left: 15%;
+    margin-top: 78.7%;
+    padding-top: 30px;
+    width: 70%;
+    padding-bottom: 220px;
+    height: 130%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+.paper-container3 {
+    position: absolute;
+    background-color: #f9f9f9;
+    margin-left: 15%;
+    margin-top: 155.9%;
+    padding-top: 30px;
+    width: 70%;
+    padding-bottom: 220px;
+    height: 130%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+.paper-container4 {
+    position: absolute;
+    background-color: #f9f9f9;
+    margin-left: 15%;
+    margin-top: 233.2%;
+    padding-top: 30px;
+    width: 70%;
+    padding-bottom: 220px;
+    height: 160%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+.paper-container5 {
+    position: absolute;
+    background-color: #f9f9f9;
+    margin-left: 15%;
+    margin-top: 324.2%;
+    padding-top: 30px;
+    width: 70%;
+    padding-bottom: 220px;
+    height: 160%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+.paper-container6 {
+    position: absolute;
+    background-color: #f9f9f9;
+    margin-left: 15%;
+    margin-top: 415.2%;
+    padding-top: 30px;
+    width: 70%;
+    padding-bottom: 220px;
+    height: 160%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+.paper-container7 {
+    position: absolute;
+    background-color: #f9f9f9;
+    margin-left: 15%;
+    margin-top: 506.4%;
+    padding-top: 30px;
+    width: 70%;
+    padding-bottom: 220px;
+    height: 160%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+.title {
+ text-align: center;
+}
+.title-1 {
+    text-align: center;
+    font-size: 18px;
+}
+.title-2 {
+    text-align: center;
+    font-size: 20px;
+}   
+.title-3 {
+    text-align: center;
+    font-size: 18px;
+}  
+.acsat_logo {
+    align-content: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+    width: 60%;
+}
+.by {
+    text-align: center;
+    font-size: 20px;
+}
+
+.members {
+    position: absolute;
+    left: 43%;
+    font-size: 18px;
+}
+.lead{
+    position: absolute;
+    top: 50.9%;
+    left: 24%;
+}
+.date {
+    text-align: center;
+    margin-top: 45%;
+}
+.chap1 {
+    position: absolute;
+    left: 12%;
+    font-size: 20px;
+}
+.table-1 {
+    position: absolute;
+    top: 29%;
+    font-size: 20px;
+    left: 18%;
+}
+.chap2 {
+    position: absolute;
+    top: 65%;
+    left: 12%;
+}
+.table-2 {
+    position: absolute;
+    top: 70%;
+    font-size: 20px;
+    left: 18%;
+}
+.chap3 {
+    position: absolute;
+    left: 12%;
+}
+.table-3 {
+    position: absolute;
+    top: 30%;
+    font-size: 20px;
+    left: 18%;
+}
+.ch1 {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 21px;
+}
+.rationale {
+    margin-top: 60px;
+    margin-left: 13%;
+    font-size: 21px;
+}
+.context {
+    margin-right: 10%;
+    margin-left: 10%;
+    font-size: 25px;
+    text-align: justify;
+}
+.sop {
+    margin-top: 60px;
+    margin-left: 13%;
+    font-size: 21px;
+}
+.sop1 {
+    margin-right: 10%;
+    margin-left: 10%;
+    font-size: 25px;
+    text-align: justify;
+}
+.hypo {
+    margin-right: 10%;
+    margin-left: 10%;
+    font-size: 25px;
+    text-align: justify;
+}
+.signi {
+    margin-right: 10%;
+    margin-left: 10%;
+    font-size: 25px;
+    text-align: justify;
+}
+.scope {
+    margin-right: 10%;
+    margin-left: 10%;
+    font-size: 25px;
+    text-align: justify;
+}
