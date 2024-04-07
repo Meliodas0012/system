@@ -13,14 +13,20 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 </head>
 
-	<center>
-		
+<div>
+	<img src="img/dgt.png" alt="">
+</div>
 
-		<div class="form_deg">
+	<center>
+
 
 			<center class="title_deg">
 			
+			<div>
+			<img class="logo-acsat" src="img/acsat.png" alt="">
+		</div>
 
+		<div class="form_deg">	
 				<h4>
 					<?php 
 
