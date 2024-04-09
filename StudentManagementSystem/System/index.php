@@ -97,19 +97,19 @@
 
                 <div class="form-group">
                     <label class="form-label" for="first_name">First Name</label>
-                    <input class="form-input" type="text" id="first_name" name="first_name">
+                    <input class="form-input" type="text" id="first_name" name="first_name" required>
                 </div>
                 <div class="form-group">
                     <label class="form-label" for="last_name">Last Name</label>
-                    <input class="form-input" type="text" id="last_name" name="last_name">
+                    <input class="form-input" type="text" id="last_name" name="last_name" required>
                 </div>
                 <div class="form-group">
                     <label class="form-label" for="middle_name">Middle Name</label>
-                    <input class="form-input" type="text" id="middle_name" name="middle_name">
+                    <input class="form-input" type="text" id="middle_name" name="middle_name"> 
                 </div>
                 <div class="form-group">
                     <label class="form-label" for="registering_for">Registering for</label>
-                    <select class="form-input" id="registering_for" name="registering_for">
+                    <select class="form-input" id="registering_for" name="registering_for" required>
                         <option value="" selected disabled>Registering for</option>
                         <option value="SHS">Senior High School</option>
                         <option value="College">College</option>
@@ -117,8 +117,8 @@
                     </select>
                 </div>
                 <div class="form-group">
-                    <label class="form-label" for="strand">Strand / Course</label>
-                    <select class="form-input" id="strand" name="strand">
+                    <label class="form-label" for="strand">Strand / Course</label >
+                    <select class="form-input" id="strand" name="strand" required>
                         <option value="" selected disabled>Select Strand / Course</option>
                         <option value="abm">Accountancy, Business & Management(ABM)</option>
                         <option value="Bread and pastry">Bread and Pastry Production (National Certificate II)</option>
@@ -149,34 +149,34 @@
                 </div>
                 <div class="form-group">
                     <label class="form-label" for="birthday">Birthday</label>
-                    <input class="form-input" type="date" id="birthday" name="birthday">
+                    <input class="form-input" type="date" id="birthday" name="birthday" required>
                 </div>
                 <div class="form-group">
                     <label class="form-label" for="gender">Gender</label>
-                    <select class="form-input" id="gender" name="gender">
+                    <select class="form-input" id="gender" name="gender" required>
                         <option value="male">Male</option>
                         <option value="female">Female</option>
                     </select>
                 </div>
                 <div class="form-group">
                     <label class="form-label" for="contact_number">Contact Number</label>
-                    <input class="form-input" type="tel" id="contact_number" name="contact_number">
+                    <input class="form-input" type="tel" id="contact_number" name="contact_number" required>
                 </div>
                 <div class="form-group">
                     <label class="form-label" for="email">Email</label>
-                    <input class="form-input" type="email" id="email" name="email">
+                    <input class="form-input" type="email" id="email" name="email" required>
                 </div>
                 <div class="form-group">
                     <label class="form-label" for="nationality">Nationality</label>
-                    <input class="form-input" type="text" id="nationality" name="nationality">
+                    <input class="form-input" type="text" id="nationality" name="nationality" required>
                 </div>
                 <div class="form-group">
                     <label class="form-label" for="religion">Religion</label>
-                    <input class="form-input" type="text" id="religion" name="religion">
+                    <input class="form-input" type="text" id="religion" name="religion" required>
                 </div>
                 <div class="form-group">
                     <label class="form-label" for="permanent_address">Permanent Address</label>
-                    <textarea class="form-input" id="permanent_address" name="permanent_address"></textarea>
+                    <input class="form-input" type="permanent_address" name="permanent_address" required>
                 </div>
                 <div class="form-group">
                     <input class="form-button" type="submit" name="apply">
